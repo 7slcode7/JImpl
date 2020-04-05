@@ -30,16 +30,22 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Vestigium1">
-    <configuration name="Chap1_Enum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chap1_Enum" />
+  <component name="RunManager" selected="Application.StringBuilderTest">
+    <configuration name="Predicate_Lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap_6.Predicate_Lambda" />
       <module name="Chapter1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chap_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Predicate_Lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chap_6.Predicate_Lambda" />
+    <configuration name="StringBuilderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap_6.StringBuilderTest" />
       <module name="Chapter1" />
       <extension name="coverage">
         <pattern>
@@ -92,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringBuilderTest" />
         <item itemvalue="Application.Vestigium1" />
         <item itemvalue="Application.Vestigium" />
         <item itemvalue="Application.String_Manipulation" />
         <item itemvalue="Application.Predicate_Lambda" />
-        <item itemvalue="Application.Chap1_Enum" />
       </list>
     </recent_temporary>
   </component>
@@ -113,7 +119,7 @@
       <workItem from="1582958566498" duration="8460000" />
       <workItem from="1584859671903" duration="2163000" />
       <workItem from="1585647569080" duration="323000" />
-      <workItem from="1585648025985" duration="28021000" />
+      <workItem from="1585648025985" duration="29548000" />
     </task>
     <servers />
   </component>
@@ -121,22 +127,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="201" key="GridCell.Tab.0.bottom" timestamp="1586019633935">
+    <state width="723" height="269" key="GridCell.Tab.0.bottom" timestamp="1586098207694">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="201" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1586019633935" />
-    <state width="1493" height="201" key="GridCell.Tab.0.center" timestamp="1586019633935">
+    <state width="723" height="269" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1586098207694" />
+    <state width="723" height="269" key="GridCell.Tab.0.center" timestamp="1586098207694">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="201" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1586019633935" />
-    <state width="1493" height="201" key="GridCell.Tab.0.left" timestamp="1586019633934">
+    <state width="723" height="269" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1586098207694" />
+    <state width="723" height="269" key="GridCell.Tab.0.left" timestamp="1586098207694">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="201" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1586019633934" />
-    <state width="1493" height="201" key="GridCell.Tab.0.right" timestamp="1586019633935">
+    <state width="723" height="269" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1586098207694" />
+    <state width="723" height="269" key="GridCell.Tab.0.right" timestamp="1586098207694">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="201" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1586019633935" />
+    <state width="723" height="269" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1586098207694" />
     <state width="1493" height="194" key="GridCell.Tab.1.bottom" timestamp="1585982801214">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
